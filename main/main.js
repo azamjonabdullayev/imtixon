@@ -3,7 +3,7 @@ function qisqaIsm(arr){
     let str1 = ism.split(" ").toLocaleUpperCase
     let str2 = " "
      for (let i = 0; i < arr.length; i++) {
-        console.log(str1);
+        
      }
      return str2
 }
